@@ -1,0 +1,14 @@
+C:\Users\aflax\source\repos\Current Location\Current Location\bin\Release\Current Location.exe.config
+C:\Users\aflax\source\repos\Current Location\Current Location\bin\Release\Current Location.exe
+C:\Users\aflax\source\repos\Current Location\Current Location\bin\Release\Current Location.pdb
+C:\Users\aflax\source\repos\Current Location\Current Location\bin\Release\Newtonsoft.Json.dll
+C:\Users\aflax\source\repos\Current Location\Current Location\bin\Release\Newtonsoft.Json.xml
+C:\Users\aflax\source\repos\Current Location\Current Location\obj\Release\Current Location.csproj.AssemblyReference.cache
+C:\Users\aflax\source\repos\Current Location\Current Location\obj\Release\Current Location.csproj.SuggestedBindingRedirects.cache
+C:\Users\aflax\source\repos\Current Location\Current Location\obj\Release\Current_Location.Form1.resources
+C:\Users\aflax\source\repos\Current Location\Current Location\obj\Release\Current_Location.Properties.Resources.resources
+C:\Users\aflax\source\repos\Current Location\Current Location\obj\Release\Current Location.csproj.GenerateResource.cache
+C:\Users\aflax\source\repos\Current Location\Current Location\obj\Release\Current Location.csproj.CoreCompileInputs.cache
+C:\Users\aflax\source\repos\Current Location\Current Location\obj\Release\Current Location.csproj.CopyComplete
+C:\Users\aflax\source\repos\Current Location\Current Location\obj\Release\Current Location.exe
+C:\Users\aflax\source\repos\Current Location\Current Location\obj\Release\Current Location.pdb
