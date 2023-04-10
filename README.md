@@ -10,4 +10,4 @@ To test the application go to Current Location\bin\Release\Current Location.exe 
 
 ## Screenshots
 
-![App Screenshot](https://github.com/AflaxCade/My-Current-Locationn/blob/master/Current%20Location.png?raw=true)
+![App Screenshot](https://github.com/AflaxCade/My-Current-Location/blob/main/Current%20Location.png?raw=true)
